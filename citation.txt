@@ -1,0 +1,7 @@
+@inproceedings{REPO-315,
+    author = "Xu, Ruiqing and Li, Chao and Yan, Junchi and Deng, Cheng and Liu, Xianglong",
+    booktitle = "Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, {IJCAI-19}",
+    pages = "982--988",
+    title = "{Graph Convolutional Network Hashing for Cross-Modal Retrieval}",
+    year = "2019"
+}
